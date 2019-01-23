@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toolkit</string>
+    <string name="start_button">Refresh</string>
+    <string name="welcome_message">Welcome to Toolkit.</string>
+    <string name="device_info">Device WIFI Information</string>
+    <string name="device_info_hint">Need active refresh</string>
+    <string name="cancel">Cancel</string>
+    <string name="iphosts">IP Hosts</string>
+</resources>
